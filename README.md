@@ -89,12 +89,6 @@ To become a strong Software Engineer by consistently learning, building, and sol
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shivamm0011&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=Shivamm0011&limit=5&theme=dark&combine_all_yearly_contributions=true)
