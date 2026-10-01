@@ -1,91 +1,76 @@
 
 <div align="center">
 
-### 👋 Hi, I'm Shivam Kushwaha
+# 👋 Shivam Kushwaha
+
+**B.Tech CSE Student · Programmer · Aspiring Software Developer**
 
 <sub>
-🎓 B.Tech CSE Student &nbsp;|&nbsp; 💻 Programmer &nbsp;|&nbsp; 🚀 Aspiring Software Developer
+Focused on <b>Data Structures & Algorithms, Java, software development, and problem solving</b>.<br>
+Building projects, solving coding problems, and continuously improving my technical skills.
 </sub>
 
 <br>
 
-<sub>
-I'm a Computer Science student focused on <b>Data Structures & Algorithms, software development, and problem solving</b>.
-I enjoy building practical projects, solving coding challenges, and continuously improving my programming skills.
-</sub>
+**Currently Working On**  
+`Java` · `DSA` · `Web Development` · `Problem Solving`
 
-<br><br>
+**Goal**  
+To become a strong Software Engineer through consistent learning, building, and problem solving.
 
-<sub>
-<b>🛠️ Working On</b><br>
-C & Java • Data Structures & Algorithms • Web Development • AI/ML • Data Analytics
-</sub>
-
-<br><br>
-
-<sub>
-<b>📚 Currently Learning</b><br>
-Java • DSA • Web Development • AI/ML • Problem Solving
-</sub>
-
-<br><br>
-
-<sub>
-<b>🎯 Goal</b><br>
-To become a strong Software Engineer by consistently learning, building, and solving real-world problems.
-</sub>
-
-<br><br>
-
-<sub><i>Consistency → Practice → Problem Solving → Growth 🚀</i></sub>
+<sub><i>Consistency → Practice → Problem Solving → Growth</i></sub>
 
 </div>
 
 ---
 
-# 🌐 Socials
+## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-kushwaha171107)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paradox1898@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-kushwaha171107)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:paradox1898@gmail.com)
 
-# 💻 Tech Stack
+## 💻 Technical Skills
 
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Languages**
 
-### Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+**Core**
 
-### Data & ML
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+`Data Structures` · `Algorithms` · `OOP` · `Problem Solving` · `DBMS`
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-![](https://github-readme-stats.shion.dev/api?username=Shivamm0011&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+<div align="center">
 
-![](https://streak-stats.demolab.com/?user=Shivamm0011&theme=dark&hide_border=false)
+<img src="https://github-readme-stats.shion.dev/api?username=Shivamm0011&theme=dark&hide_border=true&include_all_commits=false&count_private=false" height="165">
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shivamm0011&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Shivamm0011&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="165">
 
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=Shivamm0011&theme=dark&hide_border=true" height="165">
+
+</div>
+
+---
+
+<div align="center">
+<sub>Thanks for visiting my profile.</sub>
+</div>
 
